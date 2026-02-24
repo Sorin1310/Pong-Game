@@ -1,6 +1,6 @@
 # Pong Game - Proiect Python
 
-[cite_start]Acest proiect implementează jocul clasic **Pong** folosind biblioteca **Pygame**[cite: 2, 3, 9]. [cite_start]Este o aplicație interactivă concepută pentru doi jucători care concurează în timp real[cite: 24].
+Acest proiect implementează jocul clasic **Pong** folosind biblioteca **Pygame**[cite: 2, 3, 9]. [cite_start]Este o aplicație interactivă concepută pentru doi jucători care concurează în timp real[cite: 24].
 
 ## 🎮 Caracteristici
 * [cite_start]**Interfață Grafică:** Două palete colorate (roșu și albastru) și o minge albă[cite: 27, 28].
